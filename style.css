@@ -1,0 +1,91 @@
+/* Core Style */
+body {
+  font-family: "Raleway", sans-serif;
+  background-image: url(img/main.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+/* Nav Style */
+nav .container-fluid {
+  width: 80%;
+}
+
+#nav {
+  color: #2c363f;
+}
+#company {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+/* Hero Section Style */
+section .container {
+  width: 80%;
+}
+
+.hero-content {
+  margin-top: 4rem;
+}
+
+.hero-content h1 {
+  font-weight: 900;
+  font-size: 3.5rem;
+}
+
+.hero-content h3 {
+  font-weight: 700;
+}
+
+.social-icons-hero i {
+  font-size: 2rem;
+}
+
+.social-icons-hero div {
+  border: 1px solid #2c363f;
+  border-radius: 50%;
+}
+
+/* About us Style */
+.section-heading {
+  font-weight: 700;
+  font-size: 3.5rem;
+}
+
+section .btn-main {
+  background-color: #2c363f;
+  color: #fff;
+  font-size: 1.3rem;
+}
+
+/* Services Style */
+.service {
+  border-radius: 2rem;
+}
+
+.service i {
+  font-size: 2rem;
+}
+
+.services h2 {
+  margin-top: 8rem;
+}
+
+/* Contact Style */
+.contact input,
+.contact textarea {
+  padding: 1rem 0.4rem;
+  font-size: 1.3rem;
+  width: 100%;
+  font-family: "Raleway", sans-serif;
+}
+
+/* Footer Style */
+section .footer {
+  padding-top: 2rem;
+}
