@@ -1,8 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Landing Responsive Page
 
-> HTML & CSS #5th Tutorial Project (Landing).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
+> HTML & CSS Landing Project.
 
 ## Live Demo
 
